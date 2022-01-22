@@ -1,7 +1,7 @@
 # portfolioRoemer
 # task list:
 ```diff
-+ [ ] titel (naam en functie)
++ [x] titel (naam en functie)
 <br />
 - [ ] over mij
 - [ ] het kaartje
