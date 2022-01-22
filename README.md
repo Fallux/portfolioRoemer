@@ -16,7 +16,7 @@
 ! [ ] aanbevelingen (????)
 <br />
 @@ [x] overzicht van mijn werk@@
-@@ [ ] laten zien welke taal ik het leukst vind@@
+@@ [/] laten zien welke taal ik het leukst vind@@
 @@ [x/] school werk toevoegen@@
 @@ [ ] eigen werk toevoegen@@
 @@ [/] werk pagina's@@
