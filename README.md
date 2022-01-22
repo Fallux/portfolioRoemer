@@ -3,31 +3,31 @@
 ```diff
 + [x] titel (naam en functie)
 <br />
-- [ ] over mij
+- [] over mij
 - [ ] het kaartje
-- [ ] link naar cv
+- [/] link naar cv
 - [ ] foto
 - [ ] soft skills
 - [ ] waarom ik deze pad heb gekozen
-- [ ] Mijn hoofddoel quote
+- [x] Mijn hoofddoel quote
 - [ ] Welke technische en soft skills wil ik verbeteren
 <br />
 ! [ ] links naar profesionele media (?)
 ! [ ] aanbevelingen (????)
 <br />
-@@ [ ] overzicht van mijn werk@@
+@@ [x] overzicht van mijn werk@@
 @@ [ ] laten zien welke taal ik het leukst vind@@
-@@ [ ] school werk toevoegen@@
+@@ [x/] school werk toevoegen@@
 @@ [ ] eigen werk toevoegen@@
-@@ [ ] werk pagina's@@
+@@ [/] werk pagina's@@
 @@ [ ] laten zien dat je goed samenwerkt (ondernemen gedrag bijvoorbeed)@@
-@@ [ ] technische skills@@ 
+@@ [x] technische skills@@ 
 <br />
-+ [ ] contact formulier
-+ [ ] contact gegevens
++ [x] contact formulier
++ [x] contact gegevens
 + [ ] geeft regio aan met globale kaart
 <br />
-# [ ] menu
+# [/] menu
 # [ ] achtergrond animatie
 # [ ] beoordelingen van anderen
 # [ ] extra blok animatie
