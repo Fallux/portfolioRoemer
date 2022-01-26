@@ -26,7 +26,7 @@
 + [x] contact formulier
 + [x] contact gegevens
 + [ ] Werkend contact
-+ [ ] geeft regio aan met globale kaart
+
 + [ ] wordpress footer verwijderen
 <br />
 # [?] menu
@@ -34,4 +34,5 @@
 # [ ] beoordelingen van anderen
 # [ ] extra blok animatie
 # [ ] extra text animatie
+# [ ] geeft regio aan met globale kaart
 ```
