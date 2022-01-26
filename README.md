@@ -19,15 +19,16 @@
 @@ [/] laten zien welke taal ik het leukst vind@@
 @@ [x/] school werk toevoegen@@
 @@ [ ] eigen werk toevoegen@@
-@@ [/] werk pagina's@@
+@@ [?] werk pagina's@@
 @@ [ ] laten zien dat je goed samenwerkt (ondernemen gedrag bijvoorbeed)@@
 @@ [x] technische skills@@ 
 <br />
 + [x] contact formulier
 + [x] contact gegevens
++ [ ] Werkend contact
 + [ ] geeft regio aan met globale kaart
 <br />
-# [/] menu
+# [?] menu
 # [ ] achtergrond animatie
 # [ ] beoordelingen van anderen
 # [ ] extra blok animatie
