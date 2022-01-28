@@ -1,4 +1,8 @@
 # portfolioRoemer
+x = klaar
+/ = gedeeltelijk klaar maar moet nog meer
+? = uitzoeken
+  = moet nog gedaan en uitgezocht worden 
 # task list:
 ```diff
 + [x] titel (naam en functie)
