@@ -30,7 +30,7 @@
 + [x] contact formulier
 + [x] contact gegevens
 + [?] Werkend contact
-+ [ ] wordpress footer verwijderen
++ [x] wordpress footer verwijderen
 <br />
 # [?] menu
 # [ ] achtergrond animatie
