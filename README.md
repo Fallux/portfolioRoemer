@@ -29,8 +29,7 @@
 <br />
 + [x] contact formulier
 + [x] contact gegevens
-+ [ ] Werkend contact
-
++ [?] Werkend contact
 + [ ] wordpress footer verwijderen
 <br />
 # [?] menu
