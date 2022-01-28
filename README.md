@@ -7,7 +7,7 @@
 ```diff
 + [x] titel (naam en functie)
 <br />
-- [] over mij
+- [x] over mij
 - [ ] het kaartje
 - [/] link naar cv
 - [ ] foto
