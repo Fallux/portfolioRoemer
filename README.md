@@ -9,7 +9,7 @@
 <br />
 - [x] over mij
 - [ ] het kaartje
-- [/] link naar cv
+- [x] link naar cv
 - [ ] foto
 - [ ] soft skills
 - [ ] waarom ik deze pad heb gekozen
