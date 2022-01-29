@@ -29,7 +29,7 @@
 <br />
 + [x] contact formulier
 + [x] contact gegevens
-+ [?] Werkend contact
++ [/] Werkend contact (start met d echte domein)
 + [x] wordpress footer verwijderen
 <br />
 # [?] menu
