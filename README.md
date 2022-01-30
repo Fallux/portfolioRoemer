@@ -15,7 +15,8 @@
 - [X] soft skills (design error)
 - [O] waarom ik deze pad heb gekozen
 - [O] Mijn hoofddoel quote
-- [ ] Welke technische en soft skills wil ik verbeteren
+- [O] Welke technische wil ik verbeteren
+- [ ] Welke soft skills wil ik verbeteren
 <br />
 ! [ ] links naar profesionele media (?)
 ! [ ] aanbevelingen (????)
