@@ -1,36 +1,36 @@
 # portfolioRoemer
-[x] = klaar <br>
+[O] = klaar <br>
 [/] = gedeeltelijk klaar maar moet nog meer <br>
 [?] = uitzoeken <br>
 [ ] = moet nog gedaan en uitgezocht worden <br> 
 # task list:
 ```diff
-+ [x] titel (naam en functie)
++ [O] titel (naam en functie)
 <br />
-- [x] over mij
+- [O] over mij
 - [ ] het kaartje
-- [x] link naar cv
+- [O] link naar cv
 - [ ] foto
 - [ ] soft skills
 - [ ] waarom ik deze pad heb gekozen
-- [x] Mijn hoofddoel quote
+- [O] Mijn hoofddoel quote
 - [ ] Welke technische en soft skills wil ik verbeteren
 <br />
 ! [ ] links naar profesionele media (?)
 ! [ ] aanbevelingen (????)
 <br />
-@@ [x] overzicht van mijn werk@@
+@@ [O] overzicht van mijn werk@@
 @@ [/] laten zien welke taal ik het leukst vind@@
-@@ [x/] school werk toevoegen@@
+@@ [O/] school werk toevoegen@@
 @@ [ ] eigen werk toevoegen@@
 @@ [?] werk pagina's@@
 @@ [ ] laten zien dat je goed samenwerkt (ondernemen gedrag bijvoorbeed)@@
-@@ [x] technische skills@@ 
+@@ [O] technische skills@@ 
 <br />
-+ [x] contact formulier
-+ [x] contact gegevens
++ [O] contact formulier
++ [O] contact gegevens
 + [/] Werkend contact (start met d echte domein)
-+ [x] wordpress footer verwijderen
++ [O] wordpress footer verwijderen
 <br />
 # [?] menu
 # [ ] achtergrond animatie
