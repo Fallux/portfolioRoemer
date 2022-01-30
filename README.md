@@ -1,7 +1,7 @@
 # portfolioRoemer
 [O] = klaar <br>
-[/] = gedeeltelijk klaar maar moet nog meer <br>
-[?] = uitzoeken <br>
+[/] = is nog onder de constructie <br>
+[?] = uitzoeken kwa aanpak <br>
 [ ] = moet nog gedaan en uitgezocht worden <br> 
 [X] = vastgelopen
 # task list:
