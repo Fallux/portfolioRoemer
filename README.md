@@ -3,16 +3,17 @@
 [/] = gedeeltelijk klaar maar moet nog meer <br>
 [?] = uitzoeken <br>
 [ ] = moet nog gedaan en uitgezocht worden <br> 
+[X] = vastgelopen
 # task list:
 ```diff
 + [O] titel (naam en functie)
 <br />
 - [O] over mij
 - [ ] het kaartje
-- [O] link naar cv
+- [O/] link naar cv (controleer inhoud van je CV)
 - [ ] foto
-- [ ] soft skills
-- [ ] waarom ik deze pad heb gekozen
+- [X] soft skills (design error)
+- [O] waarom ik deze pad heb gekozen
 - [O] Mijn hoofddoel quote
 - [ ] Welke technische en soft skills wil ik verbeteren
 <br />
