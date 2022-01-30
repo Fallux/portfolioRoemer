@@ -25,7 +25,7 @@
 @@ [O/] school werk toevoegen@@
 @@ [ ] eigen werk toevoegen@@
 @@ [?] werk pagina's@@
-@@ [ ] laten zien dat je goed samenwerkt (ondernemen gedrag bijvoorbeed)@@
+@@ [/] laten zien dat je goed samenwerkt (ondernemen gedrag bijvoorbeed)@@
 @@ [O] technische skills@@ 
 <br />
 + [O] contact formulier
