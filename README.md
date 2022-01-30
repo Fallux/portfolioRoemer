@@ -1,6 +1,6 @@
 # portfolioRoemer
 [O] = klaar <br>
-[/] = is nog onder de constructie <br>
+[/] = is nog onder de constructie of onzeker over het eind resultaat <br>
 [?] = uitzoeken kwa aanpak <br>
 [ ] = moet nog gedaan en uitgezocht worden <br> 
 [X] = vastgelopen
