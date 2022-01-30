@@ -33,7 +33,8 @@
 + [/] Werkend contact (start met d echte domein)
 + [O] wordpress footer verwijderen
 <br />
-# [?] menu
+# [O] hoofdmenu
+# [ ] footermenu
 # [ ] achtergrond animatie
 # [ ] beoordelingen van anderen
 # [ ] extra blok animatie
