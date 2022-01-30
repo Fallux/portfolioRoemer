@@ -21,7 +21,7 @@
 ! [ ] aanbevelingen (????)
 <br />
 @@ [O] overzicht van mijn werk@@
-@@ [/] laten zien welke taal ik het leukst vind@@
+@@ [O/] laten zien welke taal ik het leukst vind@@
 @@ [O/] school werk toevoegen@@
 @@ [ ] eigen werk toevoegen@@
 @@ [?] werk pagina's@@
