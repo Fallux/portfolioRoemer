@@ -9,7 +9,7 @@
 + [O] titel (naam en functie)
 <br />
 - [O] over mij
-- [ ] het kaartje
+- [/] het kaartje
 - [O/] link naar cv (controleer inhoud van je CV)
 - [ ] foto
 - [X] soft skills (design error)
