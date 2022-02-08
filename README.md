@@ -12,7 +12,7 @@
 - [/] het kaartje
 - [O/] link naar cv (controleer inhoud van je CV)
 - [ ] foto
-- [X] soft skills (design error)
+- [O] soft skills
 - [O] waarom ik deze pad heb gekozen
 - [O] Mijn hoofddoel quote
 - [O] Welke technische wil ik verbeteren
