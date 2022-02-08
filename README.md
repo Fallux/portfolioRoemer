@@ -16,7 +16,7 @@
 - [O] waarom ik deze pad heb gekozen
 - [O] Mijn hoofddoel quote
 - [O] Welke technische wil ik verbeteren
-- [ ] Welke soft skills wil ik verbeteren
+- [/] Welke soft skills wil ik verbeteren
 <br />
 ! [ ] links naar profesionele media (?)
 ! [ ] aanbevelingen (????)
