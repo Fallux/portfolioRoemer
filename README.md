@@ -9,14 +9,14 @@
 + [O] titel (naam en functie)
 <br />
 - [O] over mij
-- [/] het kaartje
+- [O] het kaartje
 - [O/] link naar cv (controleer inhoud van je CV)
 - [ ] foto
 - [O] soft skills
 - [O] waarom ik deze pad heb gekozen
 - [O] Mijn hoofddoel quote
 - [O] Welke technische wil ik verbeteren
-- [/] Welke soft skills wil ik verbeteren
+- [O] Welke soft skills wil ik verbeteren
 <br />
 ! [ ] links naar profesionele media (?)
 ! [ ] aanbevelingen (????)
@@ -24,14 +24,14 @@
 @@ [O] overzicht van mijn werk@@
 @@ [O/] laten zien welke taal ik het leukst vind@@
 @@ [O/] school werk toevoegen@@
-@@ [ ] eigen werk toevoegen@@
-@@ [?] werk pagina's@@
+@@ [/] eigen werk toevoegen@@
+@@ [/] werk pagina's@@
 @@ [/] laten zien dat je goed samenwerkt (ondernemen gedrag bijvoorbeed)@@
 @@ [O] technische skills@@ 
 <br />
 + [O] contact formulier
 + [O] contact gegevens
-+ [/] Werkend contact (start met d echte domein)
++ [O] Werkend contact (start met d echte domein)
 + [O] wordpress footer verwijderen
 <br />
 # [O] hoofdmenu
